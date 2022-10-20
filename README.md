@@ -6,4 +6,4 @@ with authentication (Passport.js / Google Strategy)
 
 ![a2](https://user-images.githubusercontent.com/57833129/197027961-3c6a3f9f-8b91-466f-83fb-f6878a0b9637.jpg)
 
-![a3](https://user-images.githubusercontent.com/57833129/197027969-554ccebb-ac8b-405c-8f2f-e7d60612d2ae.jpg)
+![a4](https://user-images.githubusercontent.com/57833129/197028466-6d465230-7a51-4250-8fcc-0a260109efec.jpg)
